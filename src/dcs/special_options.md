@@ -114,6 +114,18 @@ altitude, similar as seen in civilian aviation.
 
 > 💡 Real Phantom WSOs did not assist during landing.
 
+## Jester Subtitles
+
+If enabled, each time Jester speaks subtitles will be shown on screen.
+
+![Subtitles](../img/jester_subtitles.jpg)
+
+Optionally, a portrait of Jester is shown. Available options include:
+
+- Off
+- On, with portrait (**Default**)
+- On, without portrait
+
 ## Persistent Aircraft (by livery and tail number)
 
 When checked, enables the aircraft persistence system. Allowing to save and load

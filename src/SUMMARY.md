@@ -192,6 +192,7 @@
       - [Lua API](./dcs/modding/jester/lua_api.md)
       - [Wheel UI](./dcs/modding/jester/wheel_ui.md)
       - [Dialog UI](./dcs/modding/jester/dialog_ui.md)
+      - [Subtitle UI](./dcs/modding/jester/subtitle_ui.md)
     - [Liveries](./dcs/modding/liveries.md)
 - [MSFS](./msfs/overview.md)
   - [Controls](./msfs/controls.md)
